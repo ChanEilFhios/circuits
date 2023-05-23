@@ -1,0 +1,220 @@
+<mxfile host="app.diagrams.net" modified="2023-05-23T18:05:24.870Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="jK95DmgUG_tV8YVapemn" version="16.4.6" type="github">
+  <diagram id="V_NZQx3XgNNzlPygBvvb" name="24-Pin ATX Power Supply Connector">
+    <mxGraphModel dx="1341" dy="769" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P7GR_X_JdeVPDQ13wfCv-3" value="ATX Power Supply&lt;br&gt;(24 Pin Connector)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="264" y="86" width="182" height="627" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-27" value="There are 4 of these" style="rounded=0;whiteSpace=wrap;html=1;opacity=60;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=bottom;" parent="1" vertex="1">
+          <mxGeometry x="350" y="526.5" width="370" height="178.5" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-26" value="There are 5 of these" style="rounded=0;whiteSpace=wrap;html=1;opacity=60;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=bottom;" parent="1" vertex="1">
+          <mxGeometry x="350" y="303" width="370" height="223" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-25" value="There are 2 of these" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=60;verticalAlign=bottom;" parent="1" vertex="1">
+          <mxGeometry x="350" y="124.5" width="370" height="178.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P7GR_X_JdeVPDQ13wfCv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="P7GR_X_JdeVPDQ13wfCv-14" target="P7GR_X_JdeVPDQ13wfCv-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="427" y="160.98878504672894" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P7GR_X_JdeVPDQ13wfCv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.62;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="P7GR_X_JdeVPDQ13wfCv-2" target="P7GR_X_JdeVPDQ13wfCv-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7GR_X_JdeVPDQ13wfCv-2" value="Common" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.chassis;" parent="1" vertex="1">
+          <mxGeometry x="362" y="246" width="65" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="P7GR_X_JdeVPDQ13wfCv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.84;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="P7GR_X_JdeVPDQ13wfCv-4" target="P7GR_X_JdeVPDQ13wfCv-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7GR_X_JdeVPDQ13wfCv-4" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.simple_switch;" parent="1" vertex="1">
+          <mxGeometry x="464" y="145" width="75" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="P7GR_X_JdeVPDQ13wfCv-8" value="Banana Plug&lt;br&gt;(Red)" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=6;shape=ellipse;perimeter=ellipsePerimeter;fillColor=#FFFFFF;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="667" y="151" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P7GR_X_JdeVPDQ13wfCv-12" value="Banana Plug&lt;br&gt;(Black)" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=6;shape=ellipse;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+          <mxGeometry x="667" y="216" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P7GR_X_JdeVPDQ13wfCv-14" value="+12v" style="pointerEvents=1;verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=dc3;labelPosition=center;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="367" y="131" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P7GR_X_JdeVPDQ13wfCv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="P7GR_X_JdeVPDQ13wfCv-15" target="P7GR_X_JdeVPDQ13wfCv-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7GR_X_JdeVPDQ13wfCv-15" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.fuse_4;" parent="1" vertex="1">
+          <mxGeometry x="575.4300000000001" y="152.5" width="53.13" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="k66OsZlIIV2SWIVSaGHi-5" target="k66OsZlIIV2SWIVSaGHi-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="427" y="351.98878504672894" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.84;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="k66OsZlIIV2SWIVSaGHi-3" target="k66OsZlIIV2SWIVSaGHi-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.84;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="k66OsZlIIV2SWIVSaGHi-3" target="k66OsZlIIV2SWIVSaGHi-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-3" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.simple_switch;" parent="1" vertex="1">
+          <mxGeometry x="464" y="336" width="75" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-4" value="Banana Plug&lt;br&gt;(Red)" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=6;shape=ellipse;perimeter=ellipsePerimeter;fillColor=#FFFFFF;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="667" y="342" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-5" value="+5v" style="pointerEvents=1;verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=dc3;labelPosition=center;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="367" y="322" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="k66OsZlIIV2SWIVSaGHi-7" target="k66OsZlIIV2SWIVSaGHi-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-7" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.fuse_4;" parent="1" vertex="1">
+          <mxGeometry x="575.4300000000001" y="343.5" width="53.13" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.62;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="k66OsZlIIV2SWIVSaGHi-9" target="k66OsZlIIV2SWIVSaGHi-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="402" y="449" />
+              <mxPoint x="469" y="449" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-9" value="Common" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.chassis;" parent="1" vertex="1">
+          <mxGeometry x="362" y="469" width="65" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-10" value="Banana Plug&lt;br&gt;(Black)" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=6;shape=ellipse;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+          <mxGeometry x="667" y="439" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="k66OsZlIIV2SWIVSaGHi-15" target="k66OsZlIIV2SWIVSaGHi-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="427" y="562.9887850467289" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.84;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="k66OsZlIIV2SWIVSaGHi-13" target="k66OsZlIIV2SWIVSaGHi-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-13" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.simple_switch;" parent="1" vertex="1">
+          <mxGeometry x="464" y="547" width="75" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-14" value="Banana Plug&lt;br&gt;(Red)" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=6;shape=ellipse;perimeter=ellipsePerimeter;fillColor=#FFFFFF;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="667" y="553" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-15" value="+3.3v" style="pointerEvents=1;verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=dc3;labelPosition=center;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+          <mxGeometry x="367" y="533" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="k66OsZlIIV2SWIVSaGHi-17" target="k66OsZlIIV2SWIVSaGHi-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-17" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.fuse_4;" parent="1" vertex="1">
+          <mxGeometry x="575.4300000000001" y="554.5" width="53.13" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.62;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="k66OsZlIIV2SWIVSaGHi-19" target="k66OsZlIIV2SWIVSaGHi-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-19" value="Common" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.chassis;" parent="1" vertex="1">
+          <mxGeometry x="362" y="647" width="65" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-20" value="Banana Plug&lt;br&gt;(Black)" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=6;shape=ellipse;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+          <mxGeometry x="667" y="617" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="k66OsZlIIV2SWIVSaGHi-21" target="k66OsZlIIV2SWIVSaGHi-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="469" y="449" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-21" value="5 Ohm 50W&lt;br&gt;Power Resistor" style="pointerEvents=1;verticalLabelPosition=top;shadow=0;dashed=0;align=center;html=1;verticalAlign=bottom;shape=mxgraph.electrical.resistors.resistor_2;rotation=90;horizontal=1;labelPosition=center;" parent="1" vertex="1">
+          <mxGeometry x="437" y="397" width="63" height="12.6" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="k66OsZlIIV2SWIVSaGHi-28" target="k66OsZlIIV2SWIVSaGHi-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-28" value="PS_ON&lt;br&gt;+5v" style="pointerEvents=1;verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=dc3;opacity=60;fillColor=#008a00;strokeColor=#005700;labelPosition=center;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="276" y="131" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-29" value="Common" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.chassis;" parent="1" vertex="1">
+          <mxGeometry x="273.5" y="220" width="65" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.84;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.62;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="k66OsZlIIV2SWIVSaGHi-30" target="k66OsZlIIV2SWIVSaGHi-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="119" y="161" />
+              <mxPoint x="119" y="204" />
+              <mxPoint x="314" y="204" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-30" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.simple_switch;opacity=60;" parent="1" vertex="1">
+          <mxGeometry x="139" y="145" width="75" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.54;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.62;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="k66OsZlIIV2SWIVSaGHi-33" target="k66OsZlIIV2SWIVSaGHi-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-33" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.led_1;pointerEvents=1;opacity=60;rotation=-180;flipV=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="131" y="305.5" width="50.77" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="k66OsZlIIV2SWIVSaGHi-34" target="k66OsZlIIV2SWIVSaGHi-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-34" value="STDBY&lt;br&gt;+5v" style="pointerEvents=1;verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=dc3;opacity=60;fillColor=#6a00ff;strokeColor=#3700CC;labelPosition=center;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="276" y="293" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.54;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="k66OsZlIIV2SWIVSaGHi-35" target="k66OsZlIIV2SWIVSaGHi-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-35" value="?" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;opacity=60;" parent="1" vertex="1">
+          <mxGeometry x="197" y="317.5" width="55" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-38" value="Common" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.chassis;" parent="1" vertex="1">
+          <mxGeometry x="273.5" y="394" width="65" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.54;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.62;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="k66OsZlIIV2SWIVSaGHi-42" target="k66OsZlIIV2SWIVSaGHi-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-42" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.led_1;pointerEvents=1;opacity=60;rotation=-180;flipV=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="131" y="474.5" width="50.77" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="k66OsZlIIV2SWIVSaGHi-44" target="k66OsZlIIV2SWIVSaGHi-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-44" value="PWR_OK&lt;br&gt;+5v" style="pointerEvents=1;verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=dc3;opacity=60;fillColor=#647687;strokeColor=#314354;labelPosition=center;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="276" y="462" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.54;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="k66OsZlIIV2SWIVSaGHi-46" target="k66OsZlIIV2SWIVSaGHi-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-46" value="?" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;opacity=60;" parent="1" vertex="1">
+          <mxGeometry x="197" y="486.5" width="55" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-47" value="Common" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.chassis;" parent="1" vertex="1">
+          <mxGeometry x="273.5" y="563" width="65" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=0.465;entryY=0.498;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="k66OsZlIIV2SWIVSaGHi-48" target="k66OsZlIIV2SWIVSaGHi-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="405.5" as="sourcePoint" />
+            <mxPoint x="510" y="405" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="786" y="414" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-48" value="This is only applied to 1 of the 5. There must be a load on the +5v rail for the power supply to turn on." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=60;" parent="1" vertex="1">
+          <mxGeometry x="734" y="289" width="103" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-50" value="This connector also has a -5v and a -12v line but they are very low current and I&#39;m not really sure what I would use them for so I didn&#39;t bother to add them." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=60;" parent="1" vertex="1">
+          <mxGeometry x="103" y="605" width="147" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-51" value="I&#39;m assuming I need resistors here to limit current through the LED but I have no idea how to size them." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=60;" parent="1" vertex="1">
+          <mxGeometry x="111" y="373" width="147" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="lN61dy48kzs8QAgw9jtx-1" value="There are only 8 commons in this connector so I either need to borrow some from other connectors or share them. Not sure the best way to do that to avoid overloading any one common line." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="486" y="37" width="270" height="68" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
