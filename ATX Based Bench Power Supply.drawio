@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T13:50:43.165Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="t6gJLKXpSeyF6rLasmZH" version="16.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T13:52:04.754Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="IdEIdAPwH2y2s3TYubOG" version="16.4.6" type="github">
   <diagram id="V_NZQx3XgNNzlPygBvvb" name="24-Pin ATX Power Supply Connector">
     <mxGraphModel dx="1341" dy="769" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -212,7 +212,7 @@
           <mxGeometry x="111" y="373" width="147" height="98" as="geometry" />
         </mxCell>
         <mxCell id="lN61dy48kzs8QAgw9jtx-1" value="There are only 8 commons in this connector so I either need to borrow some from other connectors or share them. Not sure the best way to do that to avoid overloading any one common line." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="10" y="12" width="270" height="68" as="geometry" />
+          <mxGeometry x="561" y="6" width="270" height="68" as="geometry" />
         </mxCell>
         <mxCell id="lN61dy48kzs8QAgw9jtx-3" value="Voltage&lt;br&gt;Sensing" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;labelBackgroundColor=none;" edge="1" parent="1" source="lN61dy48kzs8QAgw9jtx-2" target="P7GR_X_JdeVPDQ13wfCv-4">
           <mxGeometry relative="1" as="geometry">
@@ -244,6 +244,9 @@
         </mxCell>
         <mxCell id="lN61dy48kzs8QAgw9jtx-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;fillColor=#663300;" vertex="1" parent="1">
           <mxGeometry x="417" y="600" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="lN61dy48kzs8QAgw9jtx-8" value="Only 1 each of each voltage rail requires the sensing wire." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="492" y="104" width="323" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
