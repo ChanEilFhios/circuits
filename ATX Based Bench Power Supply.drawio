@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T13:52:04.754Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="IdEIdAPwH2y2s3TYubOG" version="16.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T14:12:02.021Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="AdyhuoBkVw6OBSUQxZAY" version="16.4.6" type="github">
   <diagram id="V_NZQx3XgNNzlPygBvvb" name="24-Pin ATX Power Supply Connector">
     <mxGraphModel dx="1341" dy="769" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -198,12 +198,12 @@
             <mxPoint x="740" y="405.5" as="sourcePoint" />
             <mxPoint x="510" y="405" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="786" y="414" />
+              <mxPoint x="780" y="414" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="k66OsZlIIV2SWIVSaGHi-48" value="This is only applied to 1 of the 5. There must be a load on the +5v rail for the power supply to turn on." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=60;" parent="1" vertex="1">
-          <mxGeometry x="734" y="289" width="103" height="105" as="geometry" />
+          <mxGeometry x="728" y="292" width="103" height="105" as="geometry" />
         </mxCell>
         <mxCell id="k66OsZlIIV2SWIVSaGHi-50" value="This connector also has a -5v and a -12v line but they are very low current and I&#39;m not really sure what I would use them for so I didn&#39;t bother to add them." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=60;" parent="1" vertex="1">
           <mxGeometry x="103" y="605" width="147" height="98" as="geometry" />
@@ -245,8 +245,35 @@
         <mxCell id="lN61dy48kzs8QAgw9jtx-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;fillColor=#663300;" vertex="1" parent="1">
           <mxGeometry x="417" y="600" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="lN61dy48kzs8QAgw9jtx-8" value="Only 1 each of each voltage rail requires the sensing wire." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="492" y="104" width="323" height="30" as="geometry" />
+        <mxCell id="lN61dy48kzs8QAgw9jtx-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;endArrow=classic;endFill=1;dashed=1;dashPattern=1 1;" edge="1" parent="1" source="lN61dy48kzs8QAgw9jtx-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="482" y="333" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="753" y="120" />
+              <mxPoint x="753" y="333" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lN61dy48kzs8QAgw9jtx-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;endArrow=classic;endFill=1;dashed=1;dashPattern=1 1;" edge="1" parent="1" source="lN61dy48kzs8QAgw9jtx-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="468" y="607" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="837" y="120" />
+              <mxPoint x="837" y="607" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lN61dy48kzs8QAgw9jtx-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;endArrow=classic;endFill=1;dashed=1;dashPattern=1 1;" edge="1" parent="1" source="lN61dy48kzs8QAgw9jtx-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="98" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="581" y="70" />
+              <mxPoint x="465" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lN61dy48kzs8QAgw9jtx-8" value="Only 1 pin of each voltage rail requires the sensing wire." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="90" width="323" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
