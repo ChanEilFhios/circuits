@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T22:29:01.366Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="u0-4wceqnEyrylWspJM6" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T22:31:30.553Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="WxEwEIg6Bl3xfZcDed7_" version="21.3.4" type="github">
   <diagram id="V_NZQx3XgNNzlPygBvvb" name="24-Pin ATX Power Supply Connector">
     <mxGraphModel dx="1010" dy="541" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -168,12 +168,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xxAhmFqmx9prWncgd_RI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.54;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;jumpStyle=arc;" edge="1" parent="1" source="k66OsZlIIV2SWIVSaGHi-34" target="xxAhmFqmx9prWncgd_RI-5">
+        <mxCell id="xxAhmFqmx9prWncgd_RI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.54;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;jumpStyle=arc;" edge="1" parent="1" source="k66OsZlIIV2SWIVSaGHi-34" target="xxAhmFqmx9prWncgd_RI-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="212" y="276" />
-              <mxPoint x="261" y="276" />
-              <mxPoint x="261" y="220" />
+              <mxPoint x="263" y="324" />
+              <mxPoint x="263" y="218" />
             </Array>
           </mxGeometry>
         </mxCell>
