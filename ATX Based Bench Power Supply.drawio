@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T23:17:28.532Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="KL9wKN8xMXE-j4qNzCXl" version="21.3.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-28T00:34:27.946Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="vt2GTKRgPEVmBfhqWs4N" version="21.3.4" type="github" pages="2">
   <diagram id="V_NZQx3XgNNzlPygBvvb" name="24-Pin ATX Power Supply Connector">
     <mxGraphModel dx="1004" dy="541" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="k66OsZlIIV2SWIVSaGHi-21" value="5 Ohm 50W&lt;br&gt;Power Resistor" style="pointerEvents=1;verticalLabelPosition=top;shadow=0;dashed=0;align=center;html=1;verticalAlign=bottom;shape=mxgraph.electrical.resistors.resistor_2;rotation=90;horizontal=1;labelPosition=center;" parent="1" vertex="1">
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-21" value="6 Ohm 50W&lt;br&gt;Power Resistor" style="pointerEvents=1;verticalLabelPosition=top;shadow=0;dashed=0;align=center;html=1;verticalAlign=bottom;shape=mxgraph.electrical.resistors.resistor_2;rotation=90;horizontal=1;labelPosition=center;" parent="1" vertex="1">
           <mxGeometry x="429" y="398" width="63" height="12.6" as="geometry" />
         </mxCell>
         <mxCell id="k66OsZlIIV2SWIVSaGHi-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="k66OsZlIIV2SWIVSaGHi-28" target="k66OsZlIIV2SWIVSaGHi-30" edge="1">
@@ -200,7 +200,7 @@
         <mxCell id="k66OsZlIIV2SWIVSaGHi-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.54;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="k66OsZlIIV2SWIVSaGHi-35" target="k66OsZlIIV2SWIVSaGHi-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k66OsZlIIV2SWIVSaGHi-35" value="?" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;opacity=60;" parent="1" vertex="1">
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-35" value="150 Ohm" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;opacity=60;" parent="1" vertex="1">
           <mxGeometry x="103" y="318.5" width="55" height="11" as="geometry" />
         </mxCell>
         <mxCell id="k66OsZlIIV2SWIVSaGHi-38" value="Common" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.chassis;" parent="1" vertex="1">
@@ -226,7 +226,7 @@
         <mxCell id="k66OsZlIIV2SWIVSaGHi-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.54;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="k66OsZlIIV2SWIVSaGHi-46" target="k66OsZlIIV2SWIVSaGHi-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k66OsZlIIV2SWIVSaGHi-46" value="?" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;opacity=60;" parent="1" vertex="1">
+        <mxCell id="k66OsZlIIV2SWIVSaGHi-46" value="100 Ohm" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;opacity=60;" parent="1" vertex="1">
           <mxGeometry x="103" y="487.5" width="55" height="11" as="geometry" />
         </mxCell>
         <mxCell id="k66OsZlIIV2SWIVSaGHi-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=0.465;entryY=0.498;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="k66OsZlIIV2SWIVSaGHi-48" edge="1">
