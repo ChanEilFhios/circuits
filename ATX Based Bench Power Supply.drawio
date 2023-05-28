@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-05-28T00:34:27.946Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="vt2GTKRgPEVmBfhqWs4N" version="21.3.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-28T00:46:55.406Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="lcdIkYjmYiIpuEiHzZ1s" version="21.3.4" type="github" pages="2">
   <diagram id="V_NZQx3XgNNzlPygBvvb" name="24-Pin ATX Power Supply Connector">
     <mxGraphModel dx="1004" dy="541" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="P7GR_X_JdeVPDQ13wfCv-3" value="ATX Power Supply&lt;br&gt;(24 Pin Connector)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#7A7A7A;" parent="1" vertex="1">
+        <mxCell id="P7GR_X_JdeVPDQ13wfCv-3" value="ATX Power Supply&lt;br&gt;(24 Pin Connector)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#7A7A7A;dashed=1;dashPattern=1 4;" parent="1" vertex="1">
           <mxGeometry x="170" y="87" width="182" height="627" as="geometry" />
         </mxCell>
         <mxCell id="k66OsZlIIV2SWIVSaGHi-27" value="There are 4 of these" style="rounded=0;whiteSpace=wrap;html=1;opacity=60;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=bottom;" parent="1" vertex="1">
@@ -598,6 +598,21 @@
         </mxCell>
         <mxCell id="ZKX_2O_2TVYjXy-sNmjS-7" value="Fuse" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="ZKX_2O_2TVYjXy-sNmjS-1">
           <mxGeometry x="15" y="49" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IODJMdvEB9d_C0trpa9O-1" value="" style="group;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="455" y="140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IODJMdvEB9d_C0trpa9O-2" value="" style="shape=lineEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;aspect=fixed;" vertex="1" parent="IODJMdvEB9d_C0trpa9O-1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IODJMdvEB9d_C0trpa9O-3" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#e51400;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="IODJMdvEB9d_C0trpa9O-1">
+          <mxGeometry x="5" y="10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IODJMdvEB9d_C0trpa9O-4" value="Standby" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#e3c800;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=bottom;align=center;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="370" y="145" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IODJMdvEB9d_C0trpa9O-5" value="Power" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#60a917;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=bottom;fontColor=#000000;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="550" y="145" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
